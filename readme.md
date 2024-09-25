@@ -1,5 +1,5 @@
-![Home page](./assets/images/1.jpeg)
-![image description](./assets/images/2.jpeg)
-![image description](./assets/images/3.jpeg)
-![image description](./assets/images/4.jpeg)
-![image description](./assets/images/5.jpeg)
+<img src="./assets/images/1.jpeg" width="300" />
+<img src="./assets/images/2.jpeg" width="300" />
+<img src="./assets/images/3.jpeg" width="300" />
+<img src="./assets/images/4.jpeg" width="300" />
+<img src="./assets/images/5.jpeg" width="300" />
